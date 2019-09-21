@@ -2,13 +2,21 @@
     max-width: 300px;
   }
   
-  .example-header-image {
-    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
-    background-size: cover;
-  }
-
 .container{
     padding-left: 3%;
     padding-right: 3%;
     padding-top: 1%;
+}
+
+.hoverCard:hover{
+    background-color: rgba(240, 240, 240, 1);
+}
+
+.col3{
+    columns: 3;
+    grid-column-end: auto;
+}
+
+.img300px{
+    height: 200px;
 }

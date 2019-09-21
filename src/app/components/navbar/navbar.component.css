@@ -4,7 +4,7 @@
 }
 
 .bgcolor{
-  background-color: dodgerblue;
+  background-color: rgb(58, 219, 18);
 }
 .textColorWhite{
   color: white;
@@ -25,5 +25,5 @@
 }
 
 span{
-  padding-right: 1rem; 
+  padding-right: 2rem; 
 }
