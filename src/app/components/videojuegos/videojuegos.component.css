@@ -1,0 +1,25 @@
+.example-card {
+    max-width: 300px;
+  }
+  
+.container{
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+}
+
+.hoverCard:hover{
+    background-color: rgba(240, 240, 240, 1);
+}
+.contorno{
+    border: rgba(0, 0, 255, 0.473) 1px solid;
+}
+
+.col3{
+    columns: 3;
+    grid-column-end: auto;
+}
+
+.img200px{
+    height: 200px;
+}

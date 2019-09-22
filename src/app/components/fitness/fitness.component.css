@@ -8,6 +8,10 @@
     padding-top: 1%;
 }
 
+.contorno{
+    border: rgba(0, 0, 255, 0.473) 1px solid;
+}
+
 .hoverCard:hover{
     background-color: rgba(240, 240, 240, 1);
 }
@@ -17,6 +21,6 @@
     grid-column-end: auto;
 }
 
-.img300px{
+.img200px{
     height: 200px;
 }
